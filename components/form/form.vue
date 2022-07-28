@@ -806,4 +806,12 @@ export default {
         font-weight: 700;
         margin: 20px 0;
     }
+    .col-6 {
+      flex: 0 0 50% !important;
+      max-width: 50% !important;
+    }
+    .col-3 {
+      flex: 0 0 25% !important;
+      max-width: 25% !important;
+    }
 </style>
