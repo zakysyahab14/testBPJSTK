@@ -1,0 +1,6 @@
+@import "vue-wysiwyg/dist/vueWysiwyg.css";
+
+.v-slide-item--active {
+    background-color: blue !important;
+    color: white !important;
+}
